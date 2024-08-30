@@ -1,3 +1,4 @@
+#⁠IMPORTANT NOTE: for the model to work, you should use a GPU. Otherwise it won’t work
 from flask import Flask, request, jsonify
 import yfinance as yf
 import pandas as pd
